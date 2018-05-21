@@ -17,7 +17,7 @@
 <div class="timeline-container" id="timeline-1">
   <div class="timeline-header">
     <h2 class="timeline-header__title">Mustafa Kemal Atatürk</h2>
-    <h3 class="timeline-header__subtitle">FATHER OF THE TURKS</h3>
+    <h3 class="timeline-header__subtitle">chim cúc cu</h3>
   </div>
   <div class="timeline">
     <div class="timeline-item" data-text="FATHER OF THE TURKS">
